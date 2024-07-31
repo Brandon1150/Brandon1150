@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hola! Soy un programador Junior con experiencia, apasionado por el desarrollo Full Stack y con un fuerte interés en el avance de la inteligencia artificial y la arquitectura de software en la nube. Mi objetivo es no solo dominar estas tecnologías, sino también utilizarlas para crear soluciones innovadoras y de alto impacto.<br><br>Mi formación y experiencia me han permitido adquirir habilidades sólidas en desarrollo web y backend, y estoy constantemente buscando oportunidades para aprender y crecer en el campo de la IA y la computación en la nube. Me motiva trabajar en entornos dinámicos y desafiantes donde pueda colaborar con equipos talentosos y contribuir al éxito de proyectos ambiciosos.<br><br>Estoy entusiasmado por la posibilidad de unirme a empresas líderes en tecnología como Microsoft, donde pueda aplicar mis conocimientos y seguir desarrollándome profesionalmente. Aspiro a recibir una compensación competitiva que refleje mi dedicación y el valor que puedo aportar.<br><br>Estoy siempre abierto a nuevas oportunidades y desafíos que me permitan seguir creciendo y alcanzando nuevas metas en mi carrera.
-
+Cada dia mi motivación es "Darle de nuevo al botón"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brandon-arturo-angeles-nieto-0b2324253) 
